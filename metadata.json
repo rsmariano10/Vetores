@@ -1,0 +1,7 @@
+{
+  "name": "Vector Sighting Log",
+  "description": "An intuitive application for restaurant staff to log vector (pest) sightings with a photo, date, and location. Data is stored in a dashboard and can be exported to Excel.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
